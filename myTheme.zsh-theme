@@ -1,4 +1,3 @@
-
 local user='%{$fg[magenta]%}%n' 
 local machine='%{$fg[magenta]%}%m%{$reset_color%}'
 local pwd='%{$fg[blue]%}%2~%{$reset_color%}'
